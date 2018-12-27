@@ -1,0 +1,206 @@
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.pdb
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csprojResolveAssemblyReference.cache
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Dangnhap.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Khachhang.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Main.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Ncc.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Nhanvien.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Sanpham.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.Properties.Resources.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csproj.GenerateResource.Cache
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCC.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCKHMN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDB.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDB.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem_HDN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCT.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csprojResolveAssemblyReference.cache
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCC.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCT.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCKHMN.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDB.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDN.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Dangnhap.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDB.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDN.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Khachhang.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Main.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Ncc.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Nhanvien.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Sanpham.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem_HDN.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.Properties.Resources.resources
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csproj.GenerateResource.Cache
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe
+D:\TaiLieu\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.pdb
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csprojResolveAssemblyReference.cache
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCC.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCT.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCKHMN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDB.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Dangnhap.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDB.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Khachhang.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Main.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Ncc.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Nhanvien.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Sanpham.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem_HDN.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.Properties.Resources.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csproj.GenerateResource.Cache
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.pdb
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_TK.resources
+D:\NhapMonCongNghe\DaiLyBiaNuocNgot-1\DaiLyBiaNuocNgot (1)\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BC.resources
+D:\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+D:\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+D:\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.pdb
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BC.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCC.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCT.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCKHMN.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDB.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDN.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Dangnhap.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDB.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDN.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Khachhang.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Main.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Ncc.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Nhanvien.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Sanpham.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem_HDN.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_TK.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.Properties.Resources.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csproj.GenerateResource.Cache
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DevComponents.DotNetBar2.dll
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xsd
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.Designer.cs
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xsc
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xss
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frmThongKeNCC.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_DoiMK.resources
+C:\EspecialFolder\Du Lieu\FINISH\NhapMonCongNghe\BaoCao-Nhom3-D14PM03\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frmThongKeNCC.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BC.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCC.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCT.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCKHMN.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDB.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDN.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Dangnhap.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_DoiMK.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDB.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDN.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Khachhang.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Main.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Ncc.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Nhanvien.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Sanpham.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem_HDN.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_TK.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xsd
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.Designer.cs
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xsc
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xss
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.pdb
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Downloads\Compressed\Nhom7-VuTienDat-ViThiThuy\CuoiKi-VuTienDat-ViThiThuy\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\stdole.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe.config
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.exe
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.pdb
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xsd
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.Designer.cs
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xsc
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\QL_DaiLyBiaNuocNgotDataSet.xss
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.exe
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\DaiLyBiaNuocNgot.pdb
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.Shared.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\FlashControlV71.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\ShockwaveFlashObjects.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\bin\Debug\stdole.dll
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csprojResolveAssemblyReference.cache
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frmThongKeNCC.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BC.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCC.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCCT.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_BCKHMN.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDB.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_CTHDN.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Dangnhap.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_DoiMK.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDB.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_HDN.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Khachhang.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Main.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Ncc.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Sanpham.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Timkiem_HDN.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_TK.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.Properties.Resources.resources
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.csproj.GenerateResource.Cache
+E:\aa hung\DaiLyBiaNuocNgot\DaiLyBiaNuocNgot\obj\Debug\DaiLyBiaNuocNgot.frm_Taikhoan.resources

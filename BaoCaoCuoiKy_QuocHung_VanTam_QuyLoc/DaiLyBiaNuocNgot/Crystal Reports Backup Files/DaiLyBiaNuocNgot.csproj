@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F36E393D-3016-462B-8AC1-433A646B6416}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DaiLyBiaNuocNgot</RootNamespace>
+    <AssemblyName>DaiLyBiaNuocNgot</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\..\..\LTCSDL-Mr.Huu\giuaky\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectDB.cs" />
+    <Compile Include="frmThongKeNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeNCC.Designer.cs">
+      <DependentUpon>frmThongKeNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BC.Designer.cs">
+      <DependentUpon>frm_BC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BCCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BCCC.Designer.cs">
+      <DependentUpon>frm_BCCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BCCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BCCT.Designer.cs">
+      <DependentUpon>frm_BCCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BCKHMN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BCKHMN.Designer.cs">
+      <DependentUpon>frm_BCKHMN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_CTHDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_CTHDB.Designer.cs">
+      <DependentUpon>frm_CTHDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_CTHDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_CTHDN.Designer.cs">
+      <DependentUpon>frm_CTHDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Dangnhap.Designer.cs">
+      <DependentUpon>frm_Dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DoiMK.Designer.cs">
+      <DependentUpon>frm_DoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_HDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_HDB.Designer.cs">
+      <DependentUpon>frm_HDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_HDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_HDN.Designer.cs">
+      <DependentUpon>frm_HDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Khachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Khachhang.Designer.cs">
+      <DependentUpon>frm_Khachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ncc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ncc.Designer.cs">
+      <DependentUpon>frm_Ncc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Nhanvien.Designer.cs">
+      <DependentUpon>frm_Nhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Sanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Sanpham.Designer.cs">
+      <DependentUpon>frm_Sanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Timkiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Timkiem.Designer.cs">
+      <DependentUpon>frm_Timkiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Timkiem_HDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Timkiem_HDN.Designer.cs">
+      <DependentUpon>frm_Timkiem_HDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TK.Designer.cs">
+      <DependentUpon>frm_TK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KHReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KHReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NCCReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NCCReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QL_DaiLyBiaNuocNgotDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QL_DaiLyBiaNuocNgotDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Statement\EC_tb_Calam.cs" />
+    <Compile Include="Statement\EC_tb_CongViec.cs" />
+    <Compile Include="Statement\EC_tb_CTHDB.cs" />
+    <Compile Include="Statement\EC_tb_CTHDN.cs" />
+    <Compile Include="Statement\EC_tb_HDB.cs" />
+    <Compile Include="Statement\EC_tb_HDN.cs" />
+    <Compile Include="Statement\EC_tb_Khachhang.cs" />
+    <Compile Include="Statement\EC_tb_NCC.cs" />
+    <Compile Include="Statement\EC_tb_Nhanvien.cs" />
+    <Compile Include="Statement\EC_tb_Sanpham.cs" />
+    <Compile Include="Statement\EC_tb_User.cs" />
+    <Compile Include="Statement\E_tb_Calam.cs" />
+    <Compile Include="Statement\E_tb_CongViec.cs" />
+    <Compile Include="Statement\E_tb_CTHDB.cs" />
+    <Compile Include="Statement\E_tb_CTHDN.cs" />
+    <Compile Include="Statement\E_tb_HDB.cs" />
+    <Compile Include="Statement\E_tb_HDN.cs" />
+    <Compile Include="Statement\E_tb_Khachhang.cs" />
+    <Compile Include="Statement\E_tb_NCC.cs" />
+    <Compile Include="Statement\E_tb_Nhanvien.cs" />
+    <Compile Include="Statement\E_tb_Sanpham.cs" />
+    <Compile Include="Statement\E_tb_User.cs" />
+    <Compile Include="Statement\SQL_tb_Calam.cs" />
+    <Compile Include="Statement\SQL_tb_CongViec.cs" />
+    <Compile Include="Statement\SQL_tb_CTHDB.cs" />
+    <Compile Include="Statement\SQL_tb_CTHDN.cs" />
+    <Compile Include="Statement\SQL_tb_HDB.cs" />
+    <Compile Include="Statement\SQL_tb_HDN.cs" />
+    <Compile Include="Statement\SQL_tb_Khachhang.cs" />
+    <Compile Include="Statement\SQL_tb_NCC.cs" />
+    <Compile Include="Statement\SQL_tb_Nhanvien.cs" />
+    <Compile Include="Statement\SQL_tb_Sanpham.cs" />
+    <Compile Include="Statement\SQL_tb_User.cs" />
+    <EmbeddedResource Include="frmThongKeNCC.resx">
+      <DependentUpon>frmThongKeNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BC.resx">
+      <DependentUpon>frm_BC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BCCC.resx">
+      <DependentUpon>frm_BCCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BCCT.resx">
+      <DependentUpon>frm_BCCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BCKHMN.resx">
+      <DependentUpon>frm_BCKHMN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_CTHDB.resx">
+      <DependentUpon>frm_CTHDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_CTHDN.resx">
+      <DependentUpon>frm_CTHDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Dangnhap.resx">
+      <DependentUpon>frm_Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DoiMK.resx">
+      <DependentUpon>frm_DoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_HDB.resx">
+      <DependentUpon>frm_HDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_HDN.resx">
+      <DependentUpon>frm_HDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Khachhang.resx">
+      <DependentUpon>frm_Khachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ncc.resx">
+      <DependentUpon>frm_Ncc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Nhanvien.resx">
+      <DependentUpon>frm_Nhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Sanpham.resx">
+      <DependentUpon>frm_Sanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Timkiem.resx">
+      <DependentUpon>frm_Timkiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Timkiem_HDN.resx">
+      <DependentUpon>frm_Timkiem_HDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TK.resx">
+      <DependentUpon>frm_TK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KHReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>KHReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NCCReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NCCReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QL_DaiLyBiaNuocNgotDataSet.xsc">
+      <DependentUpon>QL_DaiLyBiaNuocNgotDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <EmbeddedResource Include="QL_DaiLyBiaNuocNgotDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QL_DaiLyBiaNuocNgotDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="QL_DaiLyBiaNuocNgotDataSet.xss">
+      <DependentUpon>QL_DaiLyBiaNuocNgotDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Quest1-Icon-1024x1024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buyer-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supply-chain-management-icon_298568.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line-chart-icon-380x266.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-9-512.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounting-bill-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounting-bill-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-list-icon--icon-search-engine-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTmoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTluu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTsua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XOa n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change-user-xxl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\distributor-report-icon.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\202379.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
